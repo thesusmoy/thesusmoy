@@ -1,5 +1,6 @@
-<h1 align="center">Founder and CEO, Incrosoft</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div style="margin: auto"> <img src="[https://komarev.com/ghpvc/?username=thesusmoy&label=Profile%20views&color=0e75b6&style=flat](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/314663399_875859213573406_2464844630504330260_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGlJ66HD2PfVTW_9LBLnBbmhxvpZtQq0ceHG-lm1CrRx_fJOzFS5Pjz8ImvR3BuMeKXsfICfH9O-a2BGedL074X&_nc_ohc=Nj33CVTSvZEAX_eVblx&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAmlWShAVXM1R8Yr8rKUF5YWzG_5gY_JASsGCUIX-UU6g&oe=636CE4AF)" alt="thesusmoy" /> </p>
+<h1 align="center">Susmoy Debnath</h1>
+<h2 align="center">Founder and CEO, Incrosoft</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesusmoy&label=Profile%20views&color=0e75b6&style=flat" alt="thesusmoy" /> </p>
 
