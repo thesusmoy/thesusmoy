@@ -7,7 +7,9 @@ Hello, my name is Susmoy Debnath.
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Susmoy, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
-    <img width="90%" src="./assets/susmoydebnath.jpeg">
+    <img style="width:300px;height:300px;object-fit:cover" src="./assets/susmoydebnath.jpeg">
+    <br/>
+    <span>Entrepreneur, Software Developer</span>
 </div>
 
 
