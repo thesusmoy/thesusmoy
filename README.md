@@ -12,7 +12,7 @@ Hello, my name is Susmoy Debnath.
 </div>
 
 <div>
-  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
+  <p align="center" style="font-size: 2.5rem">Entrepreneur, Software Developer & Programming Enthusiast<p>
 </div>
 
 ## 🛠 Languages and Tools
