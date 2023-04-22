@@ -4,11 +4,11 @@ Hello, my name is Susmoy Debnath.
 
 # Hi there! Welcome to my GitHub Profile! ✨
 
-## <img src="./assets/cover.png" width="4%"> My name is Susmoy, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./assets/waving-hand.webp" width="4%"> My name is Susmoy, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 
 
 <div align="center">
-    <img width="60%" src="./assets/quote2.jpeg">
+    <img width="60%" src="./assets/cover.png">
 </div>
 
 <div>
