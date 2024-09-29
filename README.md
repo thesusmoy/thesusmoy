@@ -41,29 +41,3 @@ Hello, my name is Susmoy Debnath.
     <code><a href="https://www.scala-lang.org/" title="Scala" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40"/></a></code>
     <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
 </div>
-
-## 📊 Stats
-<!-- Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=thesusmoy" alt="thesusmoy" /> </p> -->
-
-<!-- Profile Visitors -->
-![](https://visitor-badge.laobi.icu/badge?page_id=thesusmoy.thesusmoy)
-
-<!-- LeetCode Stats Card -->
-<!-- <p align="center">
-  <a href="https://leetcode.com/thesusmoy" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=thesusmoy&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
-  </a>
-</p> -->
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thesusmoy&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesusmoy&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesusmoy&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=thesusmoy&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a> -->
